@@ -7,4 +7,6 @@
 /dataSources/
 /dataSources.local.xml
 #local build folder
-/target/**
+target
+/.idea/
+out
